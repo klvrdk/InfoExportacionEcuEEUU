@@ -1,0 +1,1520 @@
+﻿[
+  {
+    "Fecha": "1-Jan-01",
+    "Cacao_exp": "98581",
+    "Peso_cacao": "124665900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-01",
+    "Cacao_exp": "119758.6",
+    "Peso_cacao": "128795400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-01",
+    "Cacao_exp": "188826.3",
+    "Peso_cacao": "186582900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-01",
+    "Cacao_exp": "280608.8",
+    "Peso_cacao": "296644800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-01",
+    "Cacao_exp": "150789.3",
+    "Peso_cacao": "171568500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-01",
+    "Cacao_exp": "136451.3",
+    "Peso_cacao": "155574300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-01",
+    "Cacao_exp": "140687.5",
+    "Peso_cacao": "163047000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-01",
+    "Cacao_exp": "152391.3",
+    "Peso_cacao": "170146700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-01",
+    "Cacao_exp": "102140.8",
+    "Peso_cacao": "116044200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-01",
+    "Cacao_exp": "145450",
+    "Peso_cacao": "146866500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-01",
+    "Cacao_exp": "251011.2",
+    "Peso_cacao": "245584800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-01",
+    "Cacao_exp": "149269.2",
+    "Peso_cacao": "123557300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-02",
+    "Cacao_exp": "126094.1",
+    "Peso_cacao": "101547300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-02",
+    "Cacao_exp": "162004.9",
+    "Peso_cacao": "122557800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-02",
+    "Cacao_exp": "411604.7",
+    "Peso_cacao": "291387000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-02",
+    "Cacao_exp": "634638.4",
+    "Peso_cacao": "450708000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-02",
+    "Cacao_exp": "270445.2",
+    "Peso_cacao": "181591800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-02",
+    "Cacao_exp": "185777",
+    "Peso_cacao": "132159900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-02",
+    "Cacao_exp": "162061.5",
+    "Peso_cacao": "105052500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-02",
+    "Cacao_exp": "214059.3",
+    "Peso_cacao": "127112100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-02",
+    "Cacao_exp": "180741.2",
+    "Peso_cacao": "94550700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-02",
+    "Cacao_exp": "185170.9",
+    "Peso_cacao": "91038600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-02",
+    "Cacao_exp": "190557.7",
+    "Peso_cacao": "110551800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-02",
+    "Cacao_exp": "196709.7",
+    "Peso_cacao": "110055000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-03",
+    "Cacao_exp": "382061.3",
+    "Peso_cacao": "184358700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-03",
+    "Cacao_exp": "482446.1",
+    "Peso_cacao": "221103600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-03",
+    "Cacao_exp": "357909.6",
+    "Peso_cacao": "184809600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-03",
+    "Cacao_exp": "392424.7",
+    "Peso_cacao": "215618100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-03",
+    "Cacao_exp": "281013.3",
+    "Peso_cacao": "156602400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-03",
+    "Cacao_exp": "225861.5",
+    "Peso_cacao": "153090300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-03",
+    "Cacao_exp": "215314.1",
+    "Peso_cacao": "142077900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-03",
+    "Cacao_exp": "206899.3",
+    "Peso_cacao": "147577200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-03",
+    "Cacao_exp": "270860.7",
+    "Peso_cacao": "168587700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-03",
+    "Cacao_exp": "289770.1",
+    "Peso_cacao": "201107400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-03",
+    "Cacao_exp": "477462.5",
+    "Peso_cacao": "329189700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-03",
+    "Cacao_exp": "578607.8",
+    "Peso_cacao": "384744000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-04",
+    "Cacao_exp": "543566.5",
+    "Peso_cacao": "344787600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-04",
+    "Cacao_exp": "288580.9",
+    "Peso_cacao": "194024300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-04",
+    "Cacao_exp": "400084.5",
+    "Peso_cacao": "287455600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-04",
+    "Cacao_exp": "555808",
+    "Peso_cacao": "414151800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-04",
+    "Cacao_exp": "369023.4",
+    "Peso_cacao": "281237100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-04",
+    "Cacao_exp": "219259.9",
+    "Peso_cacao": "172115500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-04",
+    "Cacao_exp": "222452.6",
+    "Peso_cacao": "166083000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-04",
+    "Cacao_exp": "312214.7",
+    "Peso_cacao": "198099000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-04",
+    "Cacao_exp": "276844.2",
+    "Peso_cacao": "183371300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-04",
+    "Cacao_exp": "175479.1",
+    "Peso_cacao": "128064000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-04",
+    "Cacao_exp": "211606.9",
+    "Peso_cacao": "155581200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-04",
+    "Cacao_exp": "318868",
+    "Peso_cacao": "212154300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-05",
+    "Cacao_exp": "170015.9",
+    "Peso_cacao": "121938100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-05",
+    "Cacao_exp": "192998.5",
+    "Peso_cacao": "130596300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-05",
+    "Cacao_exp": "637199.7",
+    "Peso_cacao": "382204800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-05",
+    "Cacao_exp": "670581.3",
+    "Peso_cacao": "449122000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-05",
+    "Cacao_exp": "469108.9",
+    "Peso_cacao": "333180300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-05",
+    "Cacao_exp": "344008.2",
+    "Peso_cacao": "250594200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-05",
+    "Cacao_exp": "302980.9",
+    "Peso_cacao": "218647200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-05",
+    "Cacao_exp": "347031.9",
+    "Peso_cacao": "258101400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-05",
+    "Cacao_exp": "331531.4",
+    "Peso_cacao": "247116600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-05",
+    "Cacao_exp": "264049.9",
+    "Peso_cacao": "203991600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-05",
+    "Cacao_exp": "379707.9",
+    "Peso_cacao": "297702300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-05",
+    "Cacao_exp": "294489.8",
+    "Peso_cacao": "218193500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-06",
+    "Cacao_exp": "350949.5",
+    "Peso_cacao": "243632100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-06",
+    "Cacao_exp": "289001.2",
+    "Peso_cacao": "202611800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-06",
+    "Cacao_exp": "477305.5",
+    "Peso_cacao": "345414000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-06",
+    "Cacao_exp": "435807.6",
+    "Peso_cacao": "310651800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-06",
+    "Cacao_exp": "171656.5",
+    "Peso_cacao": "120563700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-06",
+    "Cacao_exp": "149553.2",
+    "Peso_cacao": "108060900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-06",
+    "Cacao_exp": "138899.5",
+    "Peso_cacao": "93060300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-06",
+    "Cacao_exp": "166395",
+    "Peso_cacao": "109068300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-06",
+    "Cacao_exp": "221525.9",
+    "Peso_cacao": "151110000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-06",
+    "Cacao_exp": "172226.5",
+    "Peso_cacao": "106812000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-06",
+    "Cacao_exp": "291725.6",
+    "Peso_cacao": "172083200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-06",
+    "Cacao_exp": "350839.1",
+    "Peso_cacao": "190053600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-07",
+    "Cacao_exp": "320641.6",
+    "Peso_cacao": "143582100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-07",
+    "Cacao_exp": "291672",
+    "Peso_cacao": "115071300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-07",
+    "Cacao_exp": "680413.7",
+    "Peso_cacao": "271687500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-07",
+    "Cacao_exp": "1085902.7",
+    "Peso_cacao": "438793300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-07",
+    "Cacao_exp": "530393.4",
+    "Peso_cacao": "234131800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-07",
+    "Cacao_exp": "503879",
+    "Peso_cacao": "225295800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-07",
+    "Cacao_exp": "619774.1",
+    "Peso_cacao": "274259900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-07",
+    "Cacao_exp": "312257.5",
+    "Peso_cacao": "145107000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-07",
+    "Cacao_exp": "193525.3",
+    "Peso_cacao": "97144500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-07",
+    "Cacao_exp": "233987.3",
+    "Peso_cacao": "112062900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-07",
+    "Cacao_exp": "384922",
+    "Peso_cacao": "190679400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-07",
+    "Cacao_exp": "641685.2",
+    "Peso_cacao": "299983200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-08",
+    "Cacao_exp": "464968.4",
+    "Peso_cacao": "209180400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-08",
+    "Cacao_exp": "480153.9",
+    "Peso_cacao": "199628400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-08",
+    "Cacao_exp": "654924.7",
+    "Peso_cacao": "249755400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-08",
+    "Cacao_exp": "550513.8",
+    "Peso_cacao": "234689700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-08",
+    "Cacao_exp": "783312.8",
+    "Peso_cacao": "291835600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-08",
+    "Cacao_exp": "629093.8",
+    "Peso_cacao": "232797800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-08",
+    "Cacao_exp": "692631",
+    "Peso_cacao": "229779200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-08",
+    "Cacao_exp": "706951.3",
+    "Peso_cacao": "267713100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-08",
+    "Cacao_exp": "637653.2",
+    "Peso_cacao": "243169800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-08",
+    "Cacao_exp": "809430.2",
+    "Peso_cacao": "337468700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-08",
+    "Cacao_exp": "1359571.2",
+    "Peso_cacao": "694062100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-08",
+    "Cacao_exp": "1076707.6",
+    "Peso_cacao": "490603800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-09",
+    "Cacao_exp": "1032208",
+    "Peso_cacao": "418802600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-09",
+    "Cacao_exp": "1009170.5",
+    "Peso_cacao": "389851600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-09",
+    "Cacao_exp": "1167604.2",
+    "Peso_cacao": "514461800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-09",
+    "Cacao_exp": "1058987.4",
+    "Peso_cacao": "440351500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-09",
+    "Cacao_exp": "587143.3",
+    "Peso_cacao": "278077400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-09",
+    "Cacao_exp": "945496.6",
+    "Peso_cacao": "404907500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-09",
+    "Cacao_exp": "788114.7",
+    "Peso_cacao": "333015800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-09",
+    "Cacao_exp": "1196742.6",
+    "Peso_cacao": "454045700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-09",
+    "Cacao_exp": "1621528.7",
+    "Peso_cacao": "601803000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-09",
+    "Cacao_exp": "2494453.3",
+    "Peso_cacao": "858912300.1",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-09",
+    "Cacao_exp": "2273353.8",
+    "Peso_cacao": "772554000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-09",
+    "Cacao_exp": "2136960.2",
+    "Peso_cacao": "714372400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-10",
+    "Cacao_exp": "1542636.62",
+    "Peso_cacao": "502782300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-10",
+    "Cacao_exp": "666730.62",
+    "Peso_cacao": "215212200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-10",
+    "Cacao_exp": "320084.7",
+    "Peso_cacao": "117596700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-10",
+    "Cacao_exp": "280797.47",
+    "Peso_cacao": "100056900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-10",
+    "Cacao_exp": "213270.96",
+    "Peso_cacao": "70948230",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-10",
+    "Cacao_exp": "239882.9",
+    "Peso_cacao": "82225596",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-10",
+    "Cacao_exp": "410090.35",
+    "Peso_cacao": "132133200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-10",
+    "Cacao_exp": "362198.63",
+    "Peso_cacao": "120570600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-10",
+    "Cacao_exp": "465380.72",
+    "Peso_cacao": "160123999",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-10",
+    "Cacao_exp": "777447.34",
+    "Peso_cacao": "263423100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-10",
+    "Cacao_exp": "1054207.99",
+    "Peso_cacao": "349792039",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-10",
+    "Cacao_exp": "1755882.47",
+    "Peso_cacao": "600481116",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-11",
+    "Cacao_exp": "873314.22",
+    "Peso_cacao": "288142377",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-11",
+    "Cacao_exp": "1194780.33",
+    "Peso_cacao": "359006084",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-11",
+    "Cacao_exp": "2217261.99",
+    "Peso_cacao": "622506400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-11",
+    "Cacao_exp": "1122611.58",
+    "Peso_cacao": "362446600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-11",
+    "Cacao_exp": "1334286.39",
+    "Peso_cacao": "413294239",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-11",
+    "Cacao_exp": "889512.41",
+    "Peso_cacao": "292904900.5",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-11",
+    "Cacao_exp": "651060.06",
+    "Peso_cacao": "209691000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-11",
+    "Cacao_exp": "2224750.04",
+    "Peso_cacao": "740548100.5",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-11",
+    "Cacao_exp": "2099025.68",
+    "Peso_cacao": "690036891.7",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-11",
+    "Cacao_exp": "3080813.12",
+    "Peso_cacao": "1131942446",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-11",
+    "Cacao_exp": "4095394.04",
+    "Peso_cacao": "1524593200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-11",
+    "Cacao_exp": "2585662.55",
+    "Peso_cacao": "1116577355",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-12",
+    "Cacao_exp": "1475887.83",
+    "Peso_cacao": "688689100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-12",
+    "Cacao_exp": "1331265.81",
+    "Peso_cacao": "583797599",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-12",
+    "Cacao_exp": "953929.36",
+    "Peso_cacao": "416280895.9",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-12",
+    "Cacao_exp": "485795.45",
+    "Peso_cacao": "227202300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-12",
+    "Cacao_exp": "461576.15",
+    "Peso_cacao": "212064588",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-12",
+    "Cacao_exp": "145877.55",
+    "Peso_cacao": "67985400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-12",
+    "Cacao_exp": "521647.29",
+    "Peso_cacao": "243893196",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-12",
+    "Cacao_exp": "831999.41",
+    "Peso_cacao": "369712136",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-12",
+    "Cacao_exp": "1486133.73",
+    "Peso_cacao": "604102800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-12",
+    "Cacao_exp": "1111025.75",
+    "Peso_cacao": "468403318",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-12",
+    "Cacao_exp": "1329684.79",
+    "Peso_cacao": "556112990.5",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-12",
+    "Cacao_exp": "2205719.78",
+    "Peso_cacao": "890193571",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-13",
+    "Cacao_exp": "959374.39",
+    "Peso_cacao": "420986755",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-13",
+    "Cacao_exp": "1260633.64",
+    "Peso_cacao": "587793449",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-13",
+    "Cacao_exp": "1053796.27",
+    "Peso_cacao": "501722891",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-13",
+    "Cacao_exp": "959165.81",
+    "Peso_cacao": "449867150.8",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-13",
+    "Cacao_exp": "609426.31",
+    "Peso_cacao": "267706200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-13",
+    "Cacao_exp": "534048.93",
+    "Peso_cacao": "236925101",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-13",
+    "Cacao_exp": "634322.3",
+    "Peso_cacao": "288770633.1",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-13",
+    "Cacao_exp": "872989.5",
+    "Peso_cacao": "374200800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-13",
+    "Cacao_exp": "1375114.92",
+    "Peso_cacao": "545464244",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-13",
+    "Cacao_exp": "1615843.74",
+    "Peso_cacao": "617497529",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-13",
+    "Cacao_exp": "2727618.87",
+    "Peso_cacao": "1034940300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-13",
+    "Cacao_exp": "2418068.95",
+    "Peso_cacao": "889612232",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-14",
+    "Cacao_exp": "824239.14",
+    "Peso_cacao": "309853300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-14",
+    "Cacao_exp": "1216695.44",
+    "Peso_cacao": "441410234",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-14",
+    "Cacao_exp": "2162992.01",
+    "Peso_cacao": "758878036",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-14",
+    "Cacao_exp": "1589787.48",
+    "Peso_cacao": "547254534.9",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-14",
+    "Cacao_exp": "1714707.05",
+    "Peso_cacao": "668647718",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-14",
+    "Cacao_exp": "1854982.82",
+    "Peso_cacao": "643042500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-14",
+    "Cacao_exp": "1291580.83",
+    "Peso_cacao": "427722800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-14",
+    "Cacao_exp": "1981198.83",
+    "Peso_cacao": "633905600.9",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-14",
+    "Cacao_exp": "2682248.77",
+    "Peso_cacao": "856069799",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-14",
+    "Cacao_exp": "1936698.52",
+    "Peso_cacao": "617294420",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-14",
+    "Cacao_exp": "2354991.92",
+    "Peso_cacao": "807234536",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-14",
+    "Cacao_exp": "4357614.7",
+    "Peso_cacao": "1529666382",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-15",
+    "Cacao_exp": "3799858.14",
+    "Peso_cacao": "1317860637",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-15",
+    "Cacao_exp": "3318063.24",
+    "Peso_cacao": "1212319673",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-15",
+    "Cacao_exp": "3768713.65",
+    "Peso_cacao": "1329508872",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-15",
+    "Cacao_exp": "1722340.66",
+    "Peso_cacao": "645781800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-15",
+    "Cacao_exp": "1345003.63",
+    "Peso_cacao": "477841500.5",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-15",
+    "Cacao_exp": "1675874.52",
+    "Peso_cacao": "639081009",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-15",
+    "Cacao_exp": "1778311.16",
+    "Peso_cacao": "564930300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-15",
+    "Cacao_exp": "1946138.03",
+    "Peso_cacao": "648517575",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-15",
+    "Cacao_exp": "1873245.28",
+    "Peso_cacao": "615709800.9",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-15",
+    "Cacao_exp": "2054086.47",
+    "Peso_cacao": "675919164",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-15",
+    "Cacao_exp": "1653324.75",
+    "Peso_cacao": "521749741.5",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-15",
+    "Cacao_exp": "1863209.93",
+    "Peso_cacao": "580686085",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-16",
+    "Cacao_exp": "2233056.21",
+    "Peso_cacao": "745308957",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-16",
+    "Cacao_exp": "1362842.88",
+    "Peso_cacao": "500450100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-16",
+    "Cacao_exp": "942040.24",
+    "Peso_cacao": "326339274",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-16",
+    "Cacao_exp": "866009.71",
+    "Peso_cacao": "297121600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-16",
+    "Cacao_exp": "946500.68",
+    "Peso_cacao": "319649944",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-16",
+    "Cacao_exp": "1042905.98",
+    "Peso_cacao": "352102923",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-16",
+    "Cacao_exp": "1112958.11",
+    "Peso_cacao": "375025266",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-16",
+    "Cacao_exp": "796614.24",
+    "Peso_cacao": "269953600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-16",
+    "Cacao_exp": "1026184.55",
+    "Peso_cacao": "353318700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-16",
+    "Cacao_exp": "1925272.97",
+    "Peso_cacao": "692969200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-16",
+    "Cacao_exp": "1904132.4",
+    "Peso_cacao": "747276940",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-16",
+    "Cacao_exp": "1725904.66",
+    "Peso_cacao": "693533900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-17",
+    "Cacao_exp": "1696079.98",
+    "Peso_cacao": "752357108",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-17",
+    "Cacao_exp": "1166771.7",
+    "Peso_cacao": "580555232",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-17",
+    "Cacao_exp": "1246512.13",
+    "Peso_cacao": "627070400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-17",
+    "Cacao_exp": "1012965.61",
+    "Peso_cacao": "518978458",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-17",
+    "Cacao_exp": "815311.97",
+    "Peso_cacao": "434038718",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-17",
+    "Cacao_exp": "855831.25",
+    "Peso_cacao": "433549218",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-17",
+    "Cacao_exp": "1212016.88",
+    "Peso_cacao": "628403300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-17",
+    "Cacao_exp": "1319527.98",
+    "Peso_cacao": "674236600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-17",
+    "Cacao_exp": "536427.45",
+    "Peso_cacao": "274919100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-17",
+    "Cacao_exp": "630398.44",
+    "Peso_cacao": "316267400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-17",
+    "Cacao_exp": "475361.28",
+    "Peso_cacao": "227210600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-17",
+    "Cacao_exp": "560172.17",
+    "Peso_cacao": "265834100.9",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-18",
+    "Cacao_exp": "356618.76",
+    "Peso_cacao": "164641600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-18",
+    "Cacao_exp": "402050.36",
+    "Peso_cacao": "193020680.4",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-18",
+    "Cacao_exp": "1000838.52",
+    "Peso_cacao": "418865900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-18",
+    "Cacao_exp": "632995.66",
+    "Peso_cacao": "266398311.8",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-18",
+    "Cacao_exp": "661381.85",
+    "Peso_cacao": "240200700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-18",
+    "Cacao_exp": "1006052.95",
+    "Peso_cacao": "373565680",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-18",
+    "Cacao_exp": "815975.94",
+    "Peso_cacao": "298590000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-18",
+    "Cacao_exp": "932791.05",
+    "Peso_cacao": "383121482.4",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-18",
+    "Cacao_exp": "1362882.5",
+    "Peso_cacao": "570507618",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-18",
+    "Cacao_exp": "1870008.78",
+    "Peso_cacao": "843074900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-18",
+    "Cacao_exp": "2143622.94",
+    "Peso_cacao": "956995600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-18",
+    "Cacao_exp": "1022442.02",
+    "Peso_cacao": "444742500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-19",
+    "Cacao_exp": "880213.65",
+    "Peso_cacao": "380144800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-19",
+    "Cacao_exp": "1260471.9",
+    "Peso_cacao": "547450501.8",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-19",
+    "Cacao_exp": "888068.41",
+    "Peso_cacao": "402346236.3",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-19",
+    "Cacao_exp": "747132.5",
+    "Peso_cacao": "330767680",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-19",
+    "Cacao_exp": "427135.68",
+    "Peso_cacao": "182763360",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-19",
+    "Cacao_exp": "734521.75",
+    "Peso_cacao": "294911284",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-19",
+    "Cacao_exp": "877720.83",
+    "Peso_cacao": "335745680",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-19",
+    "Cacao_exp": "998897.07",
+    "Peso_cacao": "390948960",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-19",
+    "Cacao_exp": "1119297.95",
+    "Peso_cacao": "455652250",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-19",
+    "Cacao_exp": "952566.63",
+    "Peso_cacao": "356769560",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-19",
+    "Cacao_exp": "919414.97",
+    "Peso_cacao": "341234500",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-19",
+    "Cacao_exp": "1606610.49",
+    "Peso_cacao": "610237858",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-20",
+    "Cacao_exp": "887500.06",
+    "Peso_cacao": "321342120",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-20",
+    "Cacao_exp": "1332283.21",
+    "Peso_cacao": "470815660.4",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-20",
+    "Cacao_exp": "1471829.63",
+    "Peso_cacao": "538384440",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-20",
+    "Cacao_exp": "1174753.22",
+    "Peso_cacao": "477240185",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-20",
+    "Cacao_exp": "1366369.72",
+    "Peso_cacao": "535437587",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-20",
+    "Cacao_exp": "1393298.97",
+    "Peso_cacao": "552974700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-20",
+    "Cacao_exp": "924003.84",
+    "Peso_cacao": "376359300",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-20",
+    "Cacao_exp": "1085383.08",
+    "Peso_cacao": "442384367",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-20",
+    "Cacao_exp": "2686866.4",
+    "Peso_cacao": "1070123800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-20",
+    "Cacao_exp": "2036183.98",
+    "Peso_cacao": "777072600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-20",
+    "Cacao_exp": "2144714.36",
+    "Peso_cacao": "867735200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-20",
+    "Cacao_exp": "3266948.45",
+    "Peso_cacao": "1276492900",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-21",
+    "Cacao_exp": "2156464.01",
+    "Peso_cacao": "860074100",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-feb-21",
+    "Cacao_exp": "1677414.98",
+    "Peso_cacao": "658594200.4",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-mar-21",
+    "Cacao_exp": "2897630.42",
+    "Peso_cacao": "1153812129",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Apr-21",
+    "Cacao_exp": "1161134.95",
+    "Peso_cacao": "468104400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-may-21",
+    "Cacao_exp": "1451191.61",
+    "Peso_cacao": "590413300.2",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jun-21",
+    "Cacao_exp": "1212467.34",
+    "Peso_cacao": "493626287",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-jul-21",
+    "Cacao_exp": "1214686.64",
+    "Peso_cacao": "506810400",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Aug-21",
+    "Cacao_exp": "1778501",
+    "Peso_cacao": "714398000",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-sep-21",
+    "Cacao_exp": "985699.18",
+    "Peso_cacao": "389955600",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-oct-21",
+    "Cacao_exp": "864517.46",
+    "Peso_cacao": "337771700",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "01-nov-21",
+    "Cacao_exp": "1505241.07",
+    "Peso_cacao": "601447200",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Dec-21",
+    "Cacao_exp": "1184990.63",
+    "Peso_cacao": "497584800",
+    "Name": "Cacao"
+  },
+  {
+    "Fecha": "1-Jan-22",
+    "Cacao_exp": "1878618.97",
+    "Peso_cacao": "791487900",
+    "Name": "Cacao"
+  }
+]
